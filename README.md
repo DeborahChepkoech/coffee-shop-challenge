@@ -1,1 +1,1 @@
-# coffeee-shop-challenge
+# coffee-shop-challenge
